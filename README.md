@@ -1,3 +1,6 @@
+Syntax help was obtained from Stack Overflow and tutors.
+
+
 # pandas-challenge
 Module 4 Challenge
 
